@@ -38,6 +38,9 @@ You need to use the ASI file and the DLL files for APIs in an archive of the sam
     * `ScriptHookVDotNet.asi`
     * `ScriptHookVDotNet2.dll`
     * `ScriptHookVDotNet3.dll`
+ 
+## Linux
+Please refer to [this discussion](https://github.com/Chiheb-Bacha/ScriptHookVDotNetEnhanced/discussions/17) for steps to run SHVDNE on Linux.
 
 ## Contributing
 
