@@ -1,4 +1,4 @@
-Script Hook V .Net Enhanced (SHVDNE)
+Script Hook V .Net Enhanced (SHVDNE) [Legacy + Enhanced]
 ============================
 
 [![Downloads](https://img.shields.io/github/downloads/Chiheb-Bacha/scripthookvdotnetenhanced/total?label=Downloads)](https://github.com/Chiheb-Bacha/scripthookvdotnetenhanced/releases)
