@@ -837,7 +837,7 @@ namespace SHVDN
 
             if (s_isEnhanced)
             {
-                address = MemScanner.FindPatternBmh("0f 28 8f ? ? ? ? f3 0f 10 b7 ? ? ? ? f3 0f 16 c1 e9");
+                address = MemScanner.FindPatternBmh("0f 28 8f ? ? ? ? f3 0f 10 b7 ? ? ? ? f3 0f 16 c1");
                 if (address != null)
                 {
                     s_entityPosFloatsOffset = *(int*)(address + 3);
